@@ -1,2 +1,3 @@
 # Praca_Inz
-Notatniki Jupyter z moim kodem
+Notatniki Jupyter z moim kodem.
+Jeden plik zawiera analizę, obróbkę i próbę przewidzenia w różnej koniguracji ceny,oceny,opisu(jako wektor) i kategori(do odrzucenia, przez ujemną korelację).
